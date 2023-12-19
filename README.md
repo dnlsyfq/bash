@@ -1,1 +1,4 @@
-# bash
+### print working directory
+```
+$pwd
+```
