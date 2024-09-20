@@ -29,7 +29,7 @@ cp -r <old folder> <new folder>
 
 touch <filename.txt>
 
-cat > <filename.txt>
+cat > <filename.txt> // write 
 
 cat <filename.txt>
 
